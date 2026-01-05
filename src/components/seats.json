@@ -1,0 +1,46 @@
+[
+    {
+        "pos": [-1.7, 1.1, -1.03],
+        "view": "window_seat",
+        "data": {
+            "seatNumber": "12A",
+            "position": "Window",
+            "class": "Economy",
+            "nearLavatory": false,
+            "windowAvailable": true
+        }
+    },
+    {
+        "pos": [0.5, 1.1, -2.4],
+        "view": "middle_seat",
+        "data": {
+            "seatNumber": "14B",
+            "position": "Middle",
+            "class": "Economy",
+            "nearLavatory": false,
+            "windowAvailable": false
+        }
+    },
+    {
+        "pos": [-1, 1.35, -3.5],
+        "view": "middle_col",
+        "data": {
+            "seatNumber": "10C",
+            "position": "Aisle",
+            "class": "Economy",
+            "nearLavatory": false,
+            "windowAvailable": false
+        }
+    },
+    {
+        "pos": [-1.3, 1.2, -7.1],
+        "view": "end_aisle",
+        "data": {
+            "seatNumber": "20D",
+            "position": "Aisle",
+            "class": "Economy",
+            "nearLavatory": false,
+            "windowAvailable": false
+        }
+    }
+]
